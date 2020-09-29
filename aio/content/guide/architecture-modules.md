@@ -73,7 +73,7 @@ Otros módulos de JavaScript usan *declaraciones de importación* para acceder a
   <a href="http://exploringjs.com/es6/ch_modules.html">Obtén más información sobre el sistema de módulos de JavaScript en la web.</a>
 </div>
 
-## Bibliotecas de Angular
+## Bibliotecas Angular
 
 <img src="generated/images/guide/architecture/library-module.png" alt="Component" class="left">
 
