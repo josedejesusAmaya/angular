@@ -1,4 +1,4 @@
-# Introducción a los módulos
+# Introducción a módulos
 
 Las aplicaciones de Angular son modulares y Angular tiene su propio sistema de modularidad llamado *NgModules*.
 Los NgModules son contenedores para un bloque cohesivo de código dedicado a un dominio de aplicación, un flujo de trabajo o un conjunto de capacidades estrechamente relacionadas. Pueden contener componentes, proveedores de servicios y otros archivos de código cuyo alcance está definido por el NgModule que los contiene. Pueden importar la funcionalidad que se exporta desde otros NgModules y exportar la funcionalidad seleccionada para que la utilicen otros NgModules.
