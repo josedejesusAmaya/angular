@@ -77,7 +77,7 @@ Otros módulos de JavaScript usan *declaraciones de importación* para acceder a
 
 <img src="generated/images/guide/architecture/library-module.png" alt="Component" class="left">
 
-Angular se carga como una colección de módulos JavaScript. Puedes pensar en ellos como módulos de biblioteca. Cada nombre de biblioteca de Angular comienza con el prefijo `@angular`. Instálalos con el administrador de paquetes de nodos `npm` e importa partes de ellos con declaraciones `import` de JavaScript.
+Angular se carga como una colección de módulos JavaScript. Puedes pensar en ellos como módulos de biblioteca. Cada nombre de biblioteca de Angular comienza con el prefijo `@angular`. Instálalos con el gestor de paquetes `npm` e importa partes de ellos con declaraciones `import` de JavaScript.
 
 <br class="clear">
 
